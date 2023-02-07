@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T15:49:21.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="EFx4dWj_cs_f_NUi59F6" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T16:36:29.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="ZJ1wSNYLolNfhRkiB3VN" version="20.8.17" type="github">
   <diagram name="第 1 页" id="1EB3_0H8YYV8rfO5gori">
     <mxGraphModel dx="1500" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,9 +315,6 @@
         </mxCell>
         <mxCell id="-kPq2Exw5MDwtVTnVc70-389" value="" style="shape=delay;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=26;fillColor=#000000;rotation=180;container=0;flipH=1;" parent="-kPq2Exw5MDwtVTnVc70-387" vertex="1">
           <mxGeometry x="1" y="13" width="14.43" height="3" as="geometry" />
-        </mxCell>
-        <mxCell id="oWl2RfZKXIdZDm3O-LWj-1" value="(B,C&lt;sub&gt;2&lt;/sub&gt;,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontFamily=Times New Roman;" vertex="1" parent="-kPq2Exw5MDwtVTnVc70-168">
-          <mxGeometry x="812.5" y="234.78999999999996" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-kPq2Exw5MDwtVTnVc70-144" value="&lt;font face=&quot;宋体&quot;&gt;矩阵乘法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontFamily=Times New Roman;" parent="-kPq2Exw5MDwtVTnVc70-168" vertex="1">
           <mxGeometry x="120.21000000000001" y="386.56" width="130" height="50" as="geometry" />
